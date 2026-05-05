@@ -2,10 +2,9 @@ Hey, I'm Eli Hoffman 👋
 
 Final-year Software Engineering (Hons) · Adelaide, AU · Building production systems that solve real problems
 
-[Show Image](https://www.linkedin.com/in/elijah-hoffman-au/)
-[Show Image](https://img.shields.io/badge/Adelaide-South_Australia-informational?style=flat)
-[Show Image](https://img.shields.io/badge/Adelaide_University-Class_of_2026-blueviolet?style=flat)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elijah_Hoffman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-hoffman-au/)
+[![Location](https://img.shields.io/badge/Adelaide-South_Australia-informational?style=flat)](https://github.com/HoffmanEl)
+[![Graduation](https://img.shields.io/badge/Adelaide_University-Class_of_2026-blueviolet?style=flat)](https://github.com/HoffmanEl)
 🔨 Currently building
 Quote System Alpha — a full-stack CPQ platform for an electronics distributor. React wizard UI · ASP.NET Core API · SQL Server · Python/Node.js microservices · live supplier pricing integrations.
 
