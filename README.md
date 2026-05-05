@@ -8,7 +8,7 @@ Final-year Software Engineering (Hons) · Adelaide, AU · Building production sy
 
 ### 🔨 Currently building
 
-**Quote System Alpha** — full-stack CPQ platform for an electronics distributor. React · ASP.NET Core · SQL Server · Python microservices · live supplier pricing integrations.
+**Quote System** — full-stack CPQ platform for an electronics distributor. React · ASP.NET Core · SQL Server · Python microservices · live supplier pricing integrations.
 
 ---
 
@@ -20,7 +20,7 @@ Final-year Software Engineering (Hons) · Adelaide, AU · Building production sy
 
 ### 📌 Projects
 
-**Quote System Alpha** *(Entech Electronics)*
+**Quote System** *(Private Electronics manufacturing)*
 End-to-end CPQ platform — architect and sole developer. Live multi-supplier pricing, BOM parsing, PDF generation, ERP sync. Commercial IP, not public.
 
 **Truck Black Box** *(Maptek — client project)*
@@ -33,7 +33,7 @@ Contributor to [home-assistant/core](https://github.com/home-assistant/core) —
 
 ### 🤝 About
 
-Software engineering student finishing Honours at Adelaide University in 2026. Building production systems at Entech Electronics in Adelaide for the past ~2 years — most recently as architect of Quote System Alpha.
+Software engineering student finishing Honours at Adelaide University in 2026. Building production systems at Entech Electronics in Adelaide for the past ~1 years — most recently as architect of a Quote System.
 
 Drawn to problems where software can meaningfully improve how a team works. Exploring AI tooling, backend architecture, and security post-graduation.
 
