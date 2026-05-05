@@ -2,9 +2,7 @@
 
 Final-year Software Engineering (Hons) · Adelaide, AU · Building production systems that solve real problems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elijah_Hoffman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-hoffman-au/)
-![Location](https://img.shields.io/badge/Adelaide-South_Australia-informational?style=flat)
-![Grad](https://img.shields.io/badge/Adelaide_University-2026-blueviolet?style=flat)
+📍 [![Adelaide, SA](https://img.shields.io/badge/Adelaide,_SA-555555?style=flat)](https://www.google.com/maps/place/Adelaide+SA/@-35.0003214,138.2815112,10z) &nbsp;·&nbsp; 🎓 [![Adelaide University '26](https://img.shields.io/badge/Adelaide_University_'26-555555?style=flat)](https://adelaide.edu.au/) &nbsp;·&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-hoffman-au/)
 
 ---
 
